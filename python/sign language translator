@@ -1,0 +1,113 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "66a15b9b-7c2d-4e1f-a869-e54039ac7dab",
+   "metadata": {},
+   "source": [
+    "1. Import and Install Dependencies"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3d04bed2-f707-4c93-99a0-dce1fbc74399",
+   "metadata": {},
+   "source": [
+    "2. Keypoints using MP Holistic"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "64a1f7eb-acf5-4918-addd-10190e8eb4ba",
+   "metadata": {},
+   "source": [
+    "3. Extract Keypoint Values"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "adb088ad-775a-4fb1-b939-cd616c24e44e",
+   "metadata": {},
+   "source": [
+    "4. Setup Folders for Collection"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "84642036-7ba3-40b9-bc98-0bc24a56efb9",
+   "metadata": {},
+   "source": [
+    "5. Collect Keypoint values for training and testing"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3192394a-586a-4499-aeaf-850645fe4ad5",
+   "metadata": {},
+   "source": [
+    "6. Preprocess Data and Creat Lables and features"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dee1c118-3826-4399-ad23-7dd8ca548950",
+   "metadata": {},
+   "source": [
+    "7. Build and Train LSTM Neural Network"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d83b7288-ffb2-4642-b1ec-6dc985a4d8f5",
+   "metadata": {},
+   "source": [
+    "8. Make Predictions"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1f380b9e-c1ac-4ea8-bc52-da716399e1bb",
+   "metadata": {},
+   "source": [
+    "9. Save Weights"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b155bc53-f333-43c0-9391-0d5b7915faec",
+   "metadata": {},
+   "source": [
+    "10. Evaluation using Confusion Matrix and Accuracy"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a82d3220-6d76-4cb8-86ed-04730ad5662a",
+   "metadata": {},
+   "source": [
+    "11. Test in real time"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
